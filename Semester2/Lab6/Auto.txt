@@ -1,0 +1,5 @@
+Porsche_Cayenne 7000000 White 4.8
+BMW_M5 9000000 Blue 4.9
+Toyota_Camry 2000000 Grey 5.0
+Mercedes-Benz_GT_63_S 14000000 Black 4.8
+Bentley_Continental 16000000 Blue 4.9
